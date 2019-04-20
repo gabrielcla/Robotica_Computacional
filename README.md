@@ -1,7 +1,7 @@
 # Robotica_Computacional
 Atividades para entrega da disciplina Robótica Computacional 2019.1
-# Atividade 1
-# Atividade 2
+## Atividade 1
+## Atividade 2
 # Atividade 3
 # Projeto1
 Código prinpcial com as funções e comandos para o robô: main.py <br />
