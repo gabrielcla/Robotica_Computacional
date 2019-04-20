@@ -14,12 +14,12 @@ Entregável 2 - Visão Computacional
 * Identificação de imagens/escritas específicas em um frame por meio da técnica SIFT.
 ## Atividade 3
 * Reconhecimento de objetos com Deep Learning e OpenCV
-* Rastreamento de objeto identificado em mais que 5 frames seguidos.
+* Rastreamento de objeto identificado em mais que 5 frames seguidos. ([vídeo](https://youtu.be/UlR5qervZN4))
 * Comandos introtudórios para comandar um robô ROS Turtlebot.
 
-## Projeto1
-Código prinpcial com as funções e comandos para o robô: main.py <br />
-[Vídeo do funcionamento do robô](https://youtu.be/hs9sVoCzdCU) <br />
+## Projeto 1
+* Código prinpcial com as funções e comandos para o robô: main.py <br />
+* [Vídeo do funcionamento do robô](https://youtu.be/hs9sVoCzdCU) <br />
 
 * O objeto a ser evitado pode ser escolhido via input limitado a uma lista pela rede neural utilizada (MobileNet Detection)
   * Contém um sistema de tracking para identificar o objeto escolhido somente após sua identificação em 5 frames seguidos.
