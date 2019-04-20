@@ -15,7 +15,7 @@ Entregável 2 - Visão Computacional
 ## Atividade 3
 * Reconhecimento de objetos com Deep Learning e OpenCV
 * Rastreamento de objeto identificado em mais que 5 frames seguidos. ([vídeo](https://youtu.be/UlR5qervZN4))
-* Comandos introtudórios para comandar um robô ROS Turtlebot.
+* Comandos introtudórios para comandar um robô ROS Turtlebot (versão Melodic Morenia).
 
 ## Projeto 1
 * Código prinpcial com as funções e comandos para o robô: main.py <br />
