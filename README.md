@@ -30,3 +30,7 @@ Entregável 2 - Visão Computacional
 * O robô tem características de sobrevivência.
   * Um escaneamento infravermelho para evitar colisões com obstáculos próximos ao seu redor.
   * Bumpers para, caso haja colisão, se movimentar para desviar do obstáculo.
+
+## Particle Filter
+* Código prinpcial com as funções das partículas: projeto_pf.py <br />
+*  <br />
