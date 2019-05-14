@@ -33,4 +33,5 @@ Entregável 2 - Visão Computacional
 
 ## Particle Filter
 * Código prinpcial com as funções das partículas: projeto_pf.py <br />
-*  <br />
+* Criar um filtro de localização de Monte Carlo de partículas <br />
+* Gerar um gif comprovando a convergência das partículas <br />
